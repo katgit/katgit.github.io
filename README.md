@@ -1,0 +1,3 @@
+## Resource page
+
+Some text
